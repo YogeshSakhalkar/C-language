@@ -1,0 +1,21 @@
+﻿Build started 28-06-2020 21:10:53.
+     1>Project "D:\study\c\first bit pune\Structure Using Array assigment1 player\Structure Using Array assigment1 player\Structure Using Array assigment1 player.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Structure Using Array assigment1 player.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>d:\study\c\first bit pune\structure using array assigment1 player\structure using array assigment1 player\main.c(17): warning C4133: 'function' : incompatible types - from 'Player [4]' to 'player *'
+     1>d:\study\c\first bit pune\structure using array assigment1 player\structure using array assigment1 player\main.c(28): error C2036: 'player *' : unknown size
+     1>d:\study\c\first bit pune\structure using array assigment1 player\structure using array assigment1 player\main.c(28): error C2037: left of 'name' specifies undefined struct/union 'player'
+     1>d:\study\c\first bit pune\structure using array assigment1 player\structure using array assigment1 player\main.c(30): error C2036: 'player *' : unknown size
+     1>d:\study\c\first bit pune\structure using array assigment1 player\structure using array assigment1 player\main.c(30): error C2037: left of 'no_of_matches_played' specifies undefined struct/union 'player'
+     1>d:\study\c\first bit pune\structure using array assigment1 player\structure using array assigment1 player\main.c(32): error C2036: 'player *' : unknown size
+     1>d:\study\c\first bit pune\structure using array assigment1 player\structure using array assigment1 player\main.c(32): error C2037: left of 'runs' specifies undefined struct/union 'player'
+     1>d:\study\c\first bit pune\structure using array assigment1 player\structure using array assigment1 player\main.c(34): error C2036: 'player *' : unknown size
+     1>d:\study\c\first bit pune\structure using array assigment1 player\structure using array assigment1 player\main.c(34): error C2037: left of 'wickets' specifies undefined struct/union 'player'
+     1>Done Building Project "D:\study\c\first bit pune\Structure Using Array assigment1 player\Structure Using Array assigment1 player\Structure Using Array assigment1 player.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.81

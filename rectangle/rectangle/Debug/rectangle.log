@@ -1,0 +1,17 @@
+﻿Build started 22-12-2019 16:42:15.
+     1>Project "D:\study\c\rectangle\rectangle\rectangle.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\rectangle.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study\c\rectangle\Debug\rectangle.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\study\c\rectangle\Debug\rectangle.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study\c\rectangle\Debug\rectangle.lib" /MACHINE:X86 Debug\Source.obj
+         rectangle.vcxproj -> D:\study\c\rectangle\Debug\rectangle.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\rectangle.unsuccessfulbuild".
+         Touching "Debug\rectangle.lastbuildstate".
+     1>Done Building Project "D:\study\c\rectangle\rectangle\rectangle.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.53

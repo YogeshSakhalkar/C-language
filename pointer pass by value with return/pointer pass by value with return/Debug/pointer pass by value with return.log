@@ -1,0 +1,24 @@
+﻿Build started 05-03-2020 09:21:08.
+     1>Project "D:\study\c\pointer pass by value with return\pointer pass by value with return\pointer pass by value with return.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\pointer pass by value with return.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>d:\study\c\pointer pass by value with return\pointer pass by value with return\source.c(8): warning C4047: 'function' : 'int' differs in levels of indirection from 'int *'
+     1>d:\study\c\pointer pass by value with return\pointer pass by value with return\source.c(8): warning C4024: 'myfun1' : different types for formal and actual parameter 1
+     1>d:\study\c\pointer pass by value with return\pointer pass by value with return\source.c(15): warning C4028: formal parameter 1 different from declaration
+     1>d:\study\c\pointer pass by value with return\pointer pass by value with return\source.c(46): warning C4047: 'function' : 'int' differs in levels of indirection from 'int *'
+     1>d:\study\c\pointer pass by value with return\pointer pass by value with return\source.c(46): warning C4024: 'myfun' : different types for formal and actual parameter 1
+     1>d:\study\c\pointer pass by value with return\pointer pass by value with return\source.c(50): warning C4028: formal parameter 1 different from declaration
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study\c\pointer pass by value with return\Debug\pointer pass by value with return.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\study\c\pointer pass by value with return\Debug\pointer pass by value with return.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study\c\pointer pass by value with return\Debug\pointer pass by value with return.lib" /MACHINE:X86 Debug\Source.obj
+         pointer pass by value with return.vcxproj -> D:\study\c\pointer pass by value with return\Debug\pointer pass by value with return.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\pointer pass by value with return.unsuccessfulbuild".
+         Touching "Debug\pointer pass by value with return.lastbuildstate".
+     1>Done Building Project "D:\study\c\pointer pass by value with return\pointer pass by value with return\pointer pass by value with return.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03

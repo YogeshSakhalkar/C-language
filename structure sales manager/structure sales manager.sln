@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structure sales manager", "structure sales manager\structure sales manager.vcxproj", "{670FE9C0-D811-4E7B-9F73-7F8CF632BD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670FE9C0-D811-4E7B-9F73-7F8CF632BD83}.Debug|Win32.ActiveCfg = Debug|Win32
+		{670FE9C0-D811-4E7B-9F73-7F8CF632BD83}.Debug|Win32.Build.0 = Debug|Win32
+		{670FE9C0-D811-4E7B-9F73-7F8CF632BD83}.Release|Win32.ActiveCfg = Release|Win32
+		{670FE9C0-D811-4E7B-9F73-7F8CF632BD83}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

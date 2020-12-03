@@ -1,0 +1,19 @@
+﻿Build started 11-03-2020 10:52:16.
+     1>Project "D:\study\c\Accepting string from user and performing addition\Accepting string from user and performing addition\Accepting string from user and performing addition.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Accepting string from user and performing addition.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>d:\study\c\accepting string from user and performing addition\accepting string from user and performing addition\source.c(8): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study\c\Accepting string from user and performing addition\Debug\Accepting string from user and performing addition.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\study\c\Accepting string from user and performing addition\Debug\Accepting string from user and performing addition.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study\c\Accepting string from user and performing addition\Debug\Accepting string from user and performing addition.lib" /MACHINE:X86 Debug\Source.obj
+         Accepting string from user and performing addition.vcxproj -> D:\study\c\Accepting string from user and performing addition\Debug\Accepting string from user and performing addition.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Accepting string from user and performing addition.unsuccessfulbuild".
+         Touching "Debug\Accepting string from user and performing addition.lastbuildstate".
+     1>Done Building Project "D:\study\c\Accepting string from user and performing addition\Accepting string from user and performing addition\Accepting string from user and performing addition.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.21
